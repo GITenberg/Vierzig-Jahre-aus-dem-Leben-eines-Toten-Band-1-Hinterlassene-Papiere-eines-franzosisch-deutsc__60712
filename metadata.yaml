@@ -1,5 +1,8 @@
 _repo: Vierzig-Jahre-aus-dem-Leben-eines-Toten-Band-1-Hinterlassene-Papiere-eines-franzosisch-deutsc__60712
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60712-h/images/cover.jpg
 creator:
   author:
     agent_name: Friederich, Johann Konrad
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '51095'
     url: http://www.gutenberg.org/2009/agents/51095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60712#Vierzig-Jahre-aus-dem-Leben-eines-Toten-Band-1-Hinterlassene-Papiere-eines-franzosisch-deutsc_
 gutenberg_issued: '2019-11-17'
 gutenberg_type: Text
 identifiers:
